@@ -1,0 +1,31 @@
+{
+    "gold": 40,
+    "bless_Point": 4,
+    "remnants_Point": 0,
+    "causalityLv": 5,
+    "causalityEXP": 103.80000305175781,
+    "class_Unlocked": [
+        true,
+        false,
+        false
+    ],
+    "MaxHp_TrainingCount": 0,
+    "HpRegen_TrainingCount": 0,
+    "Defense_TrainingCount": 0,
+    "Mspd_TrainingCount": 0,
+    "ATK_TrainingCount": 0,
+    "Aspd_TrainingCount": 0,
+    "CriRate_TrainingCount": 0,
+    "CriDamage_TrainingCount": 0,
+    "ProjAmount_TrainingCount": 0,
+    "ATKRange_TrainingCount": 0,
+    "Duration_TrainingCount": 0,
+    "Cooldown_TrainingCount": 0,
+    "Revival_TrainingCount": 0,
+    "Magnet_TrainingCount": 0,
+    "Growth_TrainingCount": 0,
+    "Greed_TrainingCount": 0,
+    "Curse_TrainingCount": 0,
+    "Reroll_TrainingCount": 0,
+    "Banish_TrainingCount": 0
+}
