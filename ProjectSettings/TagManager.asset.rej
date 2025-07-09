@@ -1,0 +1,15 @@
+diff a/ProjectSettings/TagManager.asset b/ProjectSettings/TagManager.asset	(rejected hunks)
+@@ -3,12 +3,7 @@
+ --- !u!78 &1
+ TagManager:
+   serializedVersion: 2
+-  tags:
+-  - BlessNode
+-  - Undefined
+-  - Monster
+-  - MonsterProjectile
+-  - Env
++  tags: []
+   layers:
+   - Default
+   - TransparentFX
