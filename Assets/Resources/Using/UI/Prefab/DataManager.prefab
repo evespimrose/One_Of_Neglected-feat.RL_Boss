@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7378905840650374646
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7193865442329586977}
+  - component: {fileID: 1415571085318069017}
+  m_Layer: 0
+  m_Name: DataManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7193865442329586977
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378905840650374646}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1140.693, y: 336.0772, z: -0.100203946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1415571085318069017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7378905840650374646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e484e27ba622c654e93ac5c17b8ecbeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player_Property:
+    gold: 0
+    Bless_Point: 0
+    remnants: 0
+    MaxHp_TrainingCount: 0
+    HpRegen_TrainingCount: 0
+    Defense_TrainingCount: 0
+    Mspd_TrainingCount: 0
+    ATK_TrainingCount: 0
+    Aspd_TrainingCount: 0
+    CriRate_TrainingCount: 0
+    CriDamage_TrainingCount: 0
+    ProjAmount_TrainingCount: 0
+    ATKRange_TrainingCount: 0
+    Duration_TrainingCount: 0
+    Cooldown_TrainingCount: 0
+    Revival_TrainingCount: 0
+    Magnet_TrainingCount: 0
+    Growth_TrainingCount: 0
+    Greed_TrainingCount: 0
+    Curse_TrainingCount: 0
+    Reroll_TrainingCount: 0
+    Banish_TrainingCount: 0
+  BTS:
+    MaxHp: 0
+    HpRegen: 0
+    Defense: 0
+    Mspd: 0
+    ATK: 0
+    Aspd: 0
+    CriRate: 0
+    CriDamage: 0
+    ProjAmount: 0
+    ATKRange: 0
+    Duration: 0
+    Cooldown: 0
+    Revival: 0
+    Magnet: 0
+    Growth: 0
+    Greed: 0
+    Curse: 0
+    Reroll: 0
+    Banish: 0
+    BarrierCooldown: 0
+    DashCount: 0
+    Barrier: 0
+    ProjDestroy: 0
+    projParry: 0
+    Invincibility: 0
+    Adversary: 0
+    GodKill: 0
